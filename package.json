@@ -4,6 +4,7 @@
   "description": "MLAC Techs — Official Website",
   "main": "server.js",
   "scripts": {
+    "build": "echo 'Static site ready'",
     "start": "node server.js",
     "dev": "node server.js"
   }
